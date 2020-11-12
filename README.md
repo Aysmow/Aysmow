@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Aysmow/Aysmow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, Speaker, And Teacher
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Aysmow Content!
+- 🌱 I’m currently learning 
+- 📫 My Discord is ﾒ . ﾒ#0001
+
+💻 building [Building PC][Building PC]  
+🧠 learning [svelte][svelte] 
+💜 loving [Developer][Developer]  
+
+🏡 [Discord][discord] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+
+[Informatique]: Informatique
+[Developer]: http://github.com/Aysmow
+[discord]: discord.gg/realisticrp
+[twitter]: https://twitter.com/AsymowV
+[youtube]: https://www.youtube.com/channel/UCN9lHZDVjNPzi7VGiZU5R2w?view_as=subscriber
+[twitch]: https://twitch.tv/acceeesss
