@@ -18,7 +18,7 @@
 
 [Informatique]: Informatique
 [Developer]: http://github.com/Aysmow
-[discord]: discord.gg/realisticrp
+[discord]: http://discord.gg/realisticrp
 [twitter]: https://twitter.com/AsymowV
 [youtube]: https://www.youtube.com/channel/UCN9lHZDVjNPzi7VGiZU5R2w?view_as=subscriber
 [twitch]: https://twitch.tv/acceeesss
