@@ -8,7 +8,7 @@
 - 📫 My Discord is ﾒ . ﾒ#0001
 
 💻 building [Building PC][Building PC]  
-🧠 learning [svelte][svelte] 
+🧠 learning 
 💜 loving [Developer][Developer]  
 
 🏡 [Discord][discord] **|** 
