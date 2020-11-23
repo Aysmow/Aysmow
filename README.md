@@ -20,7 +20,7 @@
 
 [Informatique]: Informatique
 [Developer]: http://github.com/Aysmow
-[discord]: http://discord.gg/calif
+[discord]: http://discord.gg/notoriousrp
 [twitter]: https://twitter.com/AsymowV
 [youtube]: https://www.youtube.com/channel/UCN9lHZDVjNPzi7VGiZU5R2w?view_as=subscriber
 [twitch]: https://twitch.tv/acceeesss
