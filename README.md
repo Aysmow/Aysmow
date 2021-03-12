@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Aysmow Content!
 - 🌱 I’m currently learning 
-- 📫 My Discord is ﾒ . ﾒ#0001
+- 📫 My Discord is Δysmøw#0001
 
 💻 building [Building PC][Building PC]  
 
@@ -20,7 +20,7 @@
 
 [Informatique]: Informatique
 [Developer]: http://github.com/Aysmow
-[discord]: http://discord.gg/notoriousrp
+[discord]: 
 [twitter]: https://twitter.com/AsymowV
 [youtube]: https://www.youtube.com/channel/UCN9lHZDVjNPzi7VGiZU5R2w?view_as=subscriber
-[twitch]: https://twitch.tv/acceeesss
+[twitch]: https://twitch.tv/aysmooww
