@@ -23,7 +23,7 @@
 
 - [⚡ Mon bot : Soon ](https://discord.com/oauth2/authorize?client_id=&permissions=8&scope=bot)
 
-- [![𝑀𝑜𝑜𝑛 𝑍𝑜𝑛𝑒 🌙](https://discord.gg/WytRqtKPTs)](https://discord.com/invite/UNc9pUX8yd)[ Starland](https://discord.gg/KjvWBJgPEp)
+- [![𝑀𝑜𝑜𝑛 𝑍𝑜𝑛𝑒 🌙](https://discord.gg/WytRqtKPTs)](https://discord.gg/WytRqtKPTs)[ Starland](https://discord.gg/KjvWBJgPEp)
 
 
 ---  
