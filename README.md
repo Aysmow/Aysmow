@@ -7,10 +7,10 @@
 <h2 align="center">📊 Github Stats</h2>
 <div align="center">
   
-[![Baby Z top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moskow93&theme=shadow_red)](https://github.com/moskow93)
+[![Baby Z top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moskow93&theme=shadow_red)](https://github.com/Zavestraa)
   </BR>
   </BR>
-[![Baby Z github stats](https://github-readme-stats.vercel.app/api?username=moskow93&theme=shadow_red)](https://github.com/moskow93)
+[![Baby Z github stats](https://github-readme-stats.vercel.app/api?username=moskow93&theme=shadow_red)](https://github.com/Zavestraa)
 
 
 
