@@ -9,4 +9,4 @@
 We created Atlas with the intention of offering/providing everyone with excellent, in-demand scripts!!
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moskow93&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moskow93&theme=shadow_red)
