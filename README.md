@@ -1,96 +1,12 @@
-<div>
-  <img align='left' src="https://visitcount.itsvg.in/api?id=moskow93&icon=5&color=0" alt="Profile visit counter"/>
-</div>
-<br>
-<br>
-<div align="left">
-  <img src="https://github-stats-alpha.vercel.app/api?username=moskow93&cc=20232a&tc=ffffff&ic=61dafb&bc=ffffff"/>
-  <img width="190" alt="BACKGROUND SUBLIME" src="https://tenor.com/view/test-typing-codes-gif-15828752" />
-</div>
-
-____
-
-<div align='left'>
-  <a href="https://discords.com/bio/p/zola_en_brewww" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/1070320162131165295.png" alt="Discord server"/></a>
-</div>
-
-### About Me
-
-Hi, I'm moskow93! :wave:
-
-- :fr: I'm French.
-- :computer: I'm currently working on a lot of projects, including FiveM and others.
-
-### Connect with me:
-
-[<img align="left" alt="moskow93 | Discord" width="40px" src="https://img.icons8.com/color/48/000000/discord-logo--v1.png" />][discord] [<img align="left" alt="moskow93 | Twitch" width="40px" src="https://img.icons8.com/color/48/000000/twitch--v1.png" />][twitch] [<img align="left" alt="moskow93 | YouTube" width="40px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-
-[discord]: https://discord.gg/B6Z5VbA5wd
-[twitch]: https://www.twitch.tv/moskow93_hd
-[youtube]: https://www.youtube.com/SUPAAkHD
-
-<br>
-
-____
-         
-<div align="center"> 
-      <h2>💻 Tech Stack:</h2>
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem;">
-            <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C logo" />
-            <img alt="Static Badge" src="https://img.shields.io/badge/cpp-cpp?style=plastic&logo=cplusplus&labelColor=purple&color=purple" />
-            <img src="https://img.shields.io/badge/c%23-c%23?style=plastic&logo=csharp" />
-            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo" />
-            <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript logo" />
-            <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white" alt="Lua logo" />
-            <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python logo" />
-            <img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white" alt=".NET logo" />
-            <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white" alt="NPM logo" />
-            <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="Next JS logo" />
-            <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS logo" />
-            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React logo" />
-            <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white" alt="Svelte logo" />
-            <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white" alt="Yarn logo" />
-            <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" alt="MariaDB logo" />
-            <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB logo" />
-      </div>
-</div>
-
-____
-
 <div align="center">
-        <h2 align='center'>📊 GitHub Stats</h2>
-        <img width='45%' src="https://github-readme-stats.vercel.app/api?username=moskow93&layout=compact&theme=react&hide_border=true&show_icons=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskow93&theme=react&hide_border=false&include_all_commits=true&layout=compact"/>
-        
-        
-</div>
-<div align="center">
-        <img width='45%' src="https://github-readme-streak-stats.herokuapp.com/?user=moskow93&theme=react&hide_border=false"/>
-        <img width='60%' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moskow93&theme=react"/>
-</div>
+<BR>
 
-____
-
-<div align="center">
-        <h3 align='center'>🏆 GitHub Trophies</h3>
-        <img width="80%" src="https://github-profile-trophy.vercel.app/?username=moskow93&theme=discord&no-frame=false&no-bg=true&margin-w=4"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&size=30&duration=3000&pause=1000&color=F70488&background=377CFF00&random=false&width=435&lines=Salut+moi+c'est+Zavestraa;Developpeur+Fivem;Owner+for+%3A+discord.gg%2Fdevlabs)](https://git.io/typing-svg)
 </div>
+<tr>
+<BR>
 
-____
+We created Atlas with the intention of offering/providing everyone with excellent, in-demand scripts!!
 
-<div align="center">
-        <h3 align='center'>🔝 Top repo</h3>
-        <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=moskow93&theme=react&repo=supv_core"/>
-        <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=moskow93&theme=react&repo=BoilerPlate-ReactTs-Electron"/>
-        <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=moskow93&theme=react&repo=boilerplate-botdiscord-typescript"/>
-        <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=SUBLiME-Association&theme=react&repo=sublime_core"/>
-</div>
-<div align="center">
-        <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=moskow93&theme=react&repo=ClearCache"/>
-</div>
-
-
-<div align="center">
-      <h3 align='center'>🔝 Top Contributed Repo</h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=moskow93&limit=5&theme=react&combine_all_yearly_contributions=true"/>
-</div>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moskow93&theme=highcontrast)
