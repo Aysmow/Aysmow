@@ -26,8 +26,7 @@
 <h3> 📱 Connect with Me </h3>
 
 <p align="center">
-  <a href="https://twitter.com/Akashiw3b"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Akashiw3b-blue?style=flat-square&logo=twitter"></a>
-  <a href="https://www.youtube.com/channel/UCXF-1hJcILdYTDBw-4y541Q?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-Akashi-red?style=flat-square&logo=youtube"></a> <br>
-    <a href="https://discord.com/users/779763302069698561"><img alt="Discord" src="https://img.shields.io/badge/Discord-Akashi-blue?style=flat-square&logo=discord"></a> <br>
+  <a href="https://www.youtube.com/@Aysmoww?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-Akashi-red?style=flat-square&logo=youtube"></a> <br>
+    <a href="https://discord.com/users/1189230214912413770"><img alt="Discord" src="https://img.shields.io/badge/Discord-Akashi-blue?style=flat-square&logo=discord"></a> <br>
   
   <h4> Bye 😁👋 </h4>
