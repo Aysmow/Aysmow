@@ -1,4 +1,4 @@
-<img border="0" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif">
+<img border="0" src="https://github.com/Aysmow/Aysmow/blob/main/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.svg">
 
 <h2> 💻 About Me </h2>
 
