@@ -26,7 +26,7 @@
 <h3> 📱 Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@Aysmoww?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-Akashi-red?style=flat-square&logo=youtube"></a> <br>
-    <a href="https://discord.com/users/1189230214912413770"><img alt="Discord" src="https://img.shields.io/badge/Discord-Akashi-blue?style=flat-square&logo=discord"></a> <br>
+  <a href="https://www.youtube.com/@Aysmoww?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-Aysmow-red?style=flat-square&logo=youtube"></a> <br>
+    <a href="https://discord.com/users/1189230214912413770"><img alt="Discord" src="https://img.shields.io/badge/Discord-Aysmow-blue?style=flat-square&logo=discord"></a> <br>
   
   <h4> Bye 😁👋 </h4>
