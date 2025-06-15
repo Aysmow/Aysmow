@@ -14,12 +14,12 @@
 
 <h4> 🛠️ My working projects </h4>
 
-- 🌐 Nexus-Games (French Hebergeur).
-- 🐉 AysCoreGameMode (private GameMode)
+- 🐉 AysCoreGameMode (Private GameMode)
+- 🌲 AysProtect (Private AntiCheat)
 
 <br/>
 
-[![Akashi's Github Stats](https://github-readme-stats.vercel.app/api?username=ssakashi&show_icons=true)](https://github.com/ssAkashi)
+[![Aysmow Github Stats](https://github-readme-stats.vercel.app/api?username=Aysmow&show_icons=true)](https://github.com/Aysmow)
 
 <img border="1" src="https://i.pinimg.com/originals/52/78/4c/52784cd19b12e49c4b7cff942b9692af.gif">
 
