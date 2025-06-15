@@ -1,4 +1,4 @@
-<img border="0" src="https://github.com/Aysmow/Aysmow/blob/main/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.svg">
+<img border="0" src="https://github.com/Aysmow/Aysmow/blob/main/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif">
 
 <h2> 💻 About Me </h2>
 
