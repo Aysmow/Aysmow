@@ -21,7 +21,7 @@
 
 [![Aysmow Github Stats](https://github-readme-stats.vercel.app/api?username=Aysmow&show_icons=true)](https://github.com/Aysmow)
 
-<img border="1" src="https://i.pinimg.com/originals/52/78/4c/52784cd19b12e49c4b7cff942b9692af.gif">
+<img border="1" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFiMWNmeHB1dGVlcjNiZmszY3gxeXVqc3Zhem9hazkwYm9uZ3ptciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <h3> 📱 Connect with Me </h3>
 
